@@ -1,0 +1,38 @@
+leftnav:
+- identifier: 4fc4f392-01bf-fb0b-b44d-4e7a8549a543
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4a8a5bdd-6434-e939-fe8a-33279cf7586e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
+  name: Class Sessions
+  pageRef: /pages/class-sessions/
+  weight: 30
+- identifier: 57c0d960-8069-a4f1-94bc-961206d5e81c
+  name: Economic Drivers Behind S&T Support
+  pageRef: /pages/class-sessions/class01
+  parent: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
+  weight: 40
+- identifier: 4a2db112-f448-44e5-867d-89f63f8d6edb
+  name: The Organizing Framework Behind US Science Agencies
+  pageRef: /pages/class-sessions/class02
+  parent: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
+  weight: 50
+- identifier: 334dbbd0-40db-d2c7-5202-5f32fb26eb43
+  name: The Organization of Innovation Systems at the Face-to-Face Level
+  pageRef: /pages/class-sessions/class03
+  parent: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
+  weight: 60
+- identifier: 5d2be351-1959-d9f5-6f83-2b1c1c3a5a4a
+  name: The Competitiveness Challenge
+  pageRef: /pages/class-sessions/class04
+  parent: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
+  weight: 70
+- identifier: 873b1536-353f-5841-acbe-cd07f6c6764b
+  name: The Structure of an Energy Technology Revolution
+  pageRef: /pages/class-sessions/class05
+  parent: 9c5c0d95-5558-a4af-3c79-ccbff6fa4d34
+  weight: 80
