@@ -1,0 +1,42 @@
+{
+  "term": "January IAP",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "6d55e0b7-d756-d53f-2989-4d6083b08600",
+  "instructors": {
+    "content": [
+      "02fa8dea-9e35-ace2-2a5a-11aa73eda926"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3317510d-f33f-2dcf-5ced-0d5462fb4cf6",
+    "website": "res-stp-001-science-policy-bootcamp-january-iap-2011"
+  },
+  "course_title": "Science Policy Bootcamp",
+  "hide_download": false,
+  "course_description": "The careers of MIT scientists and engineers are significantly determined by public policy decisions made in Washington by the government. However, their access to information on how this system works is limited. Meanwhile, we increasingly understand that science and technology-based innovation is deeply connected to society's economic growth and its ability to generate societal wellbeing, so the public role of science is growing. This course will examine the public policy behind and the government's role in the science and technology innovation system. Given the challenges to future federal science support, this seminar will aim to equip those planning careers in and around science and technology with a basic background for involvement in science policymaking.\n\nThis course is offered during MIT's Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month. It features student-led discussion incorporated into the course structure as well as opportunities to interact with MIT students and faculty involved in aspects of science policy. The course has been offered since 2006 and has developed as a collaborative effort between the instructor and MIT students from the [Science Policy Initiative](http://web.mit.edu/spi/).\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.STP-001",
+  "course_image_thumbnail": {
+    "content": "ea3a9dc0-9343-615f-b031-50a54e4fd29a",
+    "website": "res-stp-001-science-policy-bootcamp-january-iap-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "9b928a9b-2a85-4964-af01-653b60ebabe3",
+  "site_short_id": "res.stp-001-january-iap-2011",
+  "site_url_path": "courses/res-stp-001-science-policy-bootcamp-january-iap-2011",
+  "title": "Course Metadata"
+}
