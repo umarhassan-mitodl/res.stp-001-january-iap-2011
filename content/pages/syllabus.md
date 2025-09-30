@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains a course description, and information about course
   structure. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus

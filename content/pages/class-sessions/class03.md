@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section discusses the innovation system and factors leading to
   its success. Lecture slides and a reading list are included.   '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Class Sessions

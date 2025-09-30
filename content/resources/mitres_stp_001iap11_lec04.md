@@ -4,6 +4,8 @@ description: This resource contains information related to economic competitiven
 file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/a7f670938599acbb77f14e9cc64195dd_MITRES_STP_001IAP11_lec04.pdf
 file_size: 805655
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

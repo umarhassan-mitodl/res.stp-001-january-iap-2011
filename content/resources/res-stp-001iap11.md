@@ -7,6 +7,8 @@ description: Decisions made by Congress in the Nation's Capitol influence scient
 file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/3317510df33f2dcf5ced0d5462fb4cf6_res-stp-001iap11.jpg
 file_size: 43420
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Decisions made by Congress in the Nation's Capitol influence scientific
     research and development in the United States. Science Policy Bootcamp discusses

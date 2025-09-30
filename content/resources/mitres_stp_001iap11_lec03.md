@@ -4,6 +4,8 @@ description: This resource contains information related to flash of insight.
 file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/94b1ff2d3aab86cd723354c01feda5ae_MITRES_STP_001IAP11_lec03.pdf
 file_size: 582378
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
