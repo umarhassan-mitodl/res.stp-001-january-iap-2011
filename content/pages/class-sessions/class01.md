@@ -33,16 +33,16 @@ The Drivers behind Science and Technology Support ({{% resource_link "90deb79e-9
 
 ### Required Reading
 
-Nelson, Richard R. *National Systems of Innovation*. New York, NY: Oxford University Press, 1993, pp. 3-21, 505-523. ISBN: 9780195076172. \[Preview with [Google Books](http://books.google.com/books?id=YFDGjgxc2CYC&pg=PA230&lpg=PA230&dq=richard+nelson+national+systems+of+innovation&source=web&ots=On6qon2BPP&sig=DP0rFEN28x2ar2-ZpmDZJR3EuvY&hl=en&sa=X&oi=book_result&resnum=1&ct=result)\]
+Nelson, Richard R. *National Systems of Innovation*. New York, NY: Oxford University Press, 1993, pp. 3-21, 505-523. ISBN: 9780195076172. \[Preview with {{% resource_link "8ab5e56f-78f8-4ba5-831d-daa885c91bdb" "Google Books" %}}\]
 
 ### Other Readings for Discussion
 
-Solow, Robert M. [*Growth Theory, An Exposition*](http://nobelprize.org/nobel_prizes/economics/laureates/1987/solow-lecture.html). 5th ed. New York, NY: Oxford University Press, 2000, pp. ix-xxvi. ISBN: 9780195109030.
+Solow, Robert M. {{% resource_link "ae4e2884-a890-4b55-be20-bfc7f3891bc8" "*Growth Theory, An Exposition*" %}}. 5th ed. New York, NY: Oxford University Press, 2000, pp. ix-xxvi. ISBN: 9780195109030.
 
-Romer, Paul. "Endogenous Technological Change." *Journal of Political Economy* 98, no. 5 (1990): 72-102. ([PDF – 2.8MB](https://www.nber.org/papers/w3210))
+Romer, Paul. "Endogenous Technological Change." *Journal of Political Economy* 98, no. 5 (1990): 72-102. ({{% resource_link "973caaa2-de4e-44b9-9e9c-a241985760ca" "PDF – 2.8MB" %}})
 
-Jorgenson, Dale. "[U.S. Economic Growth in the Information Age](http://www.issues.org/18.1/jorgenson.html)." *Issues in Science and Technology* 18, no. 1 (2001): 42.
+Jorgenson, Dale. "{{% resource_link "2b7a7e83-3d3f-43f9-a1b6-8610fea9030a" "U.S. Economic Growth in the Information Age" %}}." *Issues in Science and Technology* 18, no. 1 (2001): 42.
 
 Milunovich, Steven, and John M. A. Roy. *The Next Small Thing: An Introduction to Nanotechnology*. Global Securities Research and Economics Group, Merrill Lynch & Co. September 4, 2001.
 
-Branscomb, Lewis M., and Phillip E. Auerswald. [*Between Invention and Innovation: An Analysis of Funding for Early-Stage Technology Development*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2397486). Gaithersburg, MD: Report for National Institute of Standards and Technology, 2002.
+Branscomb, Lewis M., and Phillip E. Auerswald. {{% resource_link "e0adbb41-55b8-4b89-8ea5-8e0feee39d9e" "*Between Invention and Innovation: An Analysis of Funding for Early-Stage Technology Development*" %}}. Gaithersburg, MD: Report for National Institute of Standards and Technology, 2002.

@@ -32,15 +32,15 @@ The Competitive Challenge in Advanced Production and Services ({{% resource_link
 
 ### Required Reading
 
-Samuelson, Paul A. "Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization." *Journal of Economic Perspectives* 18, no. 3 (2004): 135-137, 144-145. ([PDF](https://pubs.aeaweb.org/doi/pdf/10.1257/0895330042162403))
+Samuelson, Paul A. "Where Ricardo and Mill Rebut and Confirm Arguments of Mainstream Economists Supporting Globalization." *Journal of Economic Perspectives* 18, no. 3 (2004): 135-137, 144-145. ({{% resource_link "ed0a0b10-24b1-496d-bf39-b8a300119a6f" "PDF" %}})
 
 ### Other Readings for Class Discussions
 
 Hughes, Kent. *Building the Next American Century: The Past and Future of American Economic Competitiveness*. Baltimore, MD: Johns Hopkins University Press, 2004, pp. 68-111, 152-199.
 
-Berger, Suzanne. *How We Compete: What Companies Around the World Are Doing to Make it in Today's Global Economy*. New York, NY: Crown Business, 2005, pp. 251-277. ISBN: 9780385513593. \[Preview with [Google Books](http://books.google.com/books?id=8CB_qViEJTwC&printsec=frontcover&dq=suzanne+berger+how+we+compete#v=onepage&q=&f=false)\]
+Berger, Suzanne. *How We Compete: What Companies Around the World Are Doing to Make it in Today's Global Economy*. New York, NY: Crown Business, 2005, pp. 251-277. ISBN: 9780385513593. \[Preview with {{% resource_link "ac9123cb-c951-4cf1-a9dc-38b4fdda36cd" "Google Books" %}}\]
 
-Fong, Glenn R. ["Follower at the Frontier: International Competition and Japanese Industrial Policy."](https://www.jstor.org/stable/2600784) *International Studies Quarterly* 42, no. 2 (1998): 339-366.
+Fong, Glenn R. {{% resource_link "d7e70585-5430-45e7-a03d-a6525b62619b" "\"Follower at the Frontier: International Competition and Japanese Industrial Policy.\"" %}} *International Studies Quarterly* 42, no. 2 (1998): 339-366.
 
 Kim, Linsu. *Imitation to Innovation; The Dynamics of Korea's Technological Learning*. Boston, MA: Harvard Business School Press, 1997, pp. 192-213, 234-243.
 
@@ -48,4 +48,4 @@ Tassey, Gregory. "Rationales and Mechanisms for Revitalizing US Manufacturing R&
 
 Pisano, Gary, and Willy Shih. "Restoring American Competitiveness." *Harvard Business Review* 87 (2009): 114-125.
 
-Raduchel, William J. "[The Economics of Software](http://books.nap.edu/openbook.php?record_id=11587&page=36)." In *Measuring and Sustaining the New Economy, Software, Growth, and the Future of the U.S Economy: Report of a Symposium*. Washington, DC: National Academies Press, 2006, pp. 36-46.
+Raduchel, William J. "{{% resource_link "255b03cf-1b3c-4e4d-9f95-8667a0ad6990" "The Economics of Software" %}}." In *Measuring and Sustaining the New Economy, Software, Growth, and the Future of the U.S Economy: Report of a Symposium*. Washington, DC: National Academies Press, 2006, pp. 36-46.
