@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section contains a course description, and information about course
   structure. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
@@ -18,7 +16,7 @@ Lectures: 6 sessions / week for 1 week, 2-3 hours / session
 Instructor
 ----------
 
-[William Bonvillian](http://web.mit.edu/dc/about.html#bill), Director of MIT Washington, D.C. Office
+{{% resource_link "4ade8be6-b124-4995-9317-51bff4255c2b" "William Bonvillian" %}}, Director of MIT Washington, D.C. Office
 
 Course Goal
 -----------

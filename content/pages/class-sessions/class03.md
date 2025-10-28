@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section discusses the innovation system and factors leading to
   its success. Lecture slides and a reading list are included.   '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Class Sessions
@@ -34,11 +32,11 @@ Readings
 
 ### Required Reading
 
-Bennis, Warren, and Patricia Ward Biederman. _Organizing Genius, The Secrets of Creative Collaborative_. New York, NY: Basic Books, 1998, pp. 63-86, 196-208. ISBN: 9780201339895. \[Preview with [Google Books](https://books.google.com/books?id=vD2CXOTvHmsC&printsec=frontcover#v=onepage&q&f=false)\]
+Bennis, Warren, and Patricia Ward Biederman. _Organizing Genius, The Secrets of Creative Collaborative_. New York, NY: Basic Books, 1998, pp. 63-86, 196-208. ISBN: 9780201339895. \[Preview with {{% resource_link "0194aaf7-f501-4129-aa49-990971bc280f" "Google Books" %}}\]
 
 ### Other Readings for Class Discussions
 
-Rosen, William. _The Most Powerful Idea in the World: A Story of Steam, Industry and Invention_. New York, NY: Random House, 2010, pp. 35-39, 115-134. ISBN: 9781400067053. \[Preview with [Google Books](http://books.google.com/books?id=8VMGLiwlBSEC&pg=PAfrontcover)\]
+Rosen, William. _The Most Powerful Idea in the World: A Story of Steam, Industry and Invention_. New York, NY: Random House, 2010, pp. 35-39, 115-134. ISBN: 9781400067053. \[Preview with {{% resource_link "505d05da-6a56-4e96-be14-8fd3ff539e78" "Google Books" %}}\]
 
 Evans, Harold. _They Made America – From the Steam Engine to the Search Engine: Two Centuries of American Innovators_. Boston, MA: Little, Brown & Company, 2004, pp. 152-171, 420-231. ISBN: 9780316277662.
 
@@ -48,4 +46,4 @@ Hoddeson, Lillian, and Vicki Daitch. _True Genius – The Life and Science of Jo
 
 Morrow, Daniel S., and Dr. J. Craig Venter. _Oral History_. Video interview transcript. ComputerWorld Honors Program, 2003, pp. 3-53, 56-58.
 
-Schein, Edgar. _DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation_. San Francisco, CA: Berrett-Kohler Publishers, 2004, pp. 123-169. ISBN: 9781576753057. \[Preview with [Google Books](http://books.google.com/books?id=gJRFXz8v0fMC&printsec=frontcover&dq=Edgar+schein+dec+is+dead+lon&source=bl&ots=F-%20_Pp4mJDc&sig=Cmr5P4IIw4Oq7IONtkgALjOp2o&hl=en&ei=ZvnnTL7gI8SclgequY2iCw&sa=X&oi=book_result&ct=result&resnum=2&sqi=2&ved=0CBwQ6AEwAQ#v=onepage&q&f=false)\]
+Schein, Edgar. _DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation_. San Francisco, CA: Berrett-Kohler Publishers, 2004, pp. 123-169. ISBN: 9781576753057. \[Preview with {{% resource_link "8b9f8e9e-defa-42fb-8021-ca780fe9467e" "Google Books" %}}\]

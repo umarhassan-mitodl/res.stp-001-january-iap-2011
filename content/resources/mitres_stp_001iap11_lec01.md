@@ -4,8 +4,6 @@ description: This resource contains information related to economic models of in
 file: /courses/res-stp-001-science-policy-bootcamp-january-iap-2011/90deb79e985d97ce8770f6cdb92ff2c8_MITRES_STP_001IAP11_lec01.pdf
 file_size: 775231
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

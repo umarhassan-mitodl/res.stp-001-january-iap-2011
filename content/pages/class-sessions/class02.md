@@ -45,8 +45,8 @@ Bonvillian, William B. "Power Play – The DARPA Model and U.S. Energy Policy." 
 
 ### Other Readings for Discussion
 
-Hart, David. _Forged Consensus_. Princeton, NJ: Princeton University Press, 1998. ISBN: 9780691026671. \[Preview with [Google Books](http://books.google.com/books?id=EqUuvUdrs_MC&dq=David+Hart,+Forged+Consensus&printsec=frontcover&source=bl&ots=hG9Od9d6N6&sig=2087YRS5G6O0DlFNiicdtLx2XcA&hl=en&ei=CwP_SqTtJZ6ltgemsdWTDg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAgQ6AEwAA#v=onepage&q=&f=false)\]
+Hart, David. _Forged Consensus_. Princeton, NJ: Princeton University Press, 1998. ISBN: 9780691026671. \[Preview with {{% resource_link "ad14b1b4-4a66-4da7-b449-25e945507edb" "Google Books" %}}\]
 
 Stokes, Donald E. _Pasteur's Quadrant, Basic Science and Technological Innovation_. Washington, DC: Brookings Institution Press, 1997, pp. 1-25, 45-57, and 58-89. ISBN: 9780815781776.
 
-Ruttan Vernon W. _Is War Necessary for Economic Growth? Military Procurement and Technology Development_. New York, NY: Oxford University Press, 2006, pp. 21-31, 91-111, and 115-129. ISBN: 9780195188042. \[Preview with [Google Books](http://books.google.com/books?id=RB6Hl-IxkZUC&dq=vernon+ruttan+is+war+necessary+for+economic+growth&printsec=frontcover&source=bn&hl=en&ei=GQb_StaSF4OVtgeGpumRDg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CBIQ6AEwAw#v=onepage&q=&f=false)\]
+Ruttan Vernon W. _Is War Necessary for Economic Growth? Military Procurement and Technology Development_. New York, NY: Oxford University Press, 2006, pp. 21-31, 91-111, and 115-129. ISBN: 9780195188042. \[Preview with {{% resource_link "e8055c0b-0dc9-4ab1-b843-e171fba99892" "Google Books" %}}\]
